@@ -256,6 +256,10 @@ ul {
     display: none;
 }
 
+.faq-answer-not-needed {
+    display: block;
+}
+
 .faq-answer-visible {
     display: visible;
 }
